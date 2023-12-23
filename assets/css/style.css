@@ -44,14 +44,14 @@ h6 {
   bottom: 15px;
   z-index: 996;
   background: #102A83;
-  width: 55px;
-  height: 55px;
+  width: 35px;
+  height: 35px;
   border-radius: 4px;
   transition: all 0.4s;
 }
 
 .back-to-top i {
-  font-size: 41px;
+  font-size: 25px;
   color: #fff;
   line-height: 0;
 }
